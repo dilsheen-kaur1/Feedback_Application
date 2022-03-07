@@ -3,7 +3,7 @@
 // component created using rfce
 //if we know the name of passed value we can receive directly in function Ex.- function Header({text})
 
-import {useState} from 'react';
+// import {useState} from 'react';
 function Header({text, bgColor, textColor}) {
 
   // const headerStyles = {
